@@ -1,0 +1,10 @@
+footer{
+    background-color: aqua;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    clear: both;
+}
